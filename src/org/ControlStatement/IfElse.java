@@ -2,7 +2,7 @@ package org.ControlStatement;
 
 public class IfElse {
 public static void main(String[] args) {
-	int a =10,b=20,c=30;
+	int a =10,b=20,c=4440;
 	if (a<b && b<c) {
 		System.out.println("A is lesser");
 	}
