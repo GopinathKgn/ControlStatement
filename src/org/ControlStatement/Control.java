@@ -11,6 +11,8 @@ public static void main(String[] args) {
 	
 	if (a==10) {
 		System.out.println("A value is 10");
+		
+		System.out.println("B value is 40");
 	}
 	else {
 		System.out.println("A Value is not 10");
