@@ -4,6 +4,7 @@ public class Control {
 public static void main(String[] args) {
 	int a=10, b=40, c=30;
 	int d=10 , e= 20;
+	String a="Java";
 	
 //<<<<<<< HEAD
 //=======
